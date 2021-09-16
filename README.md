@@ -29,5 +29,5 @@ You can find my google colab file here. [Social distance detector colab](https:/
 
 ## Contacts:
 * **Created by:[M Pravalika](https://github.com/mpravalikashetty)**
-* **Email:[abd.shoumik@gmail.com](https://mpravalikashetty@gmail.com)**
+* **Email:[mpravalikashetty@gmail.com](https://mpravalikashetty@gmail.com)**
 * **LinkedIn: [Pravalika M](https://www.linkedin.com/in/itsmepravalikam)**
